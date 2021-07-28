@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+    <string name="fireboy">Fireboy-DML</string>
+    <string name="king">King</string>
+    <string name="Feel">Feel</string>
+    <string name="atWorst">At my Worst</string>
+    <string name="kizz_daniel">Kizz Daniel</string>
+    <string name="pink_sweet">Pink-sweet ft Kehlani</string>
+    <string name="WestLife">WestLife</string>
+    <string name="simi_adekunle">Simi ft Adekunle</string>
+    <string name="need_somebody">Need Somebody</string>
+    <string name="music">Music List</string>
+</resources>
